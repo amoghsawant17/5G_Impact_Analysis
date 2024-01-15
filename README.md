@@ -1,5 +1,5 @@
 # 5G_Impact_Analysis - Power BI
-- This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Challenge #3 : Provide Insights to the Executive Team in the Telecom Domain
+- This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Challenge #3: Provide Insights to the Executive Team in the Telecom Domain
 
 Problem Statement
 
@@ -13,7 +13,7 @@ However, the management noticed a decline in their active users and revenue grow
 
 ### Task List
 You are a data analyst who has been provided with sample data to work on the following tasks.
-- Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has minimal idea about dashboarding. Hence, you need to represent the insights in a much better way.
+- Create the comparison report based on the mock-up provided. Please note the mock-up is created by a business user who has a minimal idea about dashboarding. Hence, you need to represent the insights in a much better way.
 - The target audience of this dashboard is top-level management - hence the dashboard should be self-explanatory and easy to understand.
 - Create relevant insights not provided in the metric list/mock-up dashboard to support the cause.
 
@@ -58,7 +58,16 @@ You are a data analyst who has been provided with sample data to work on the fol
 - Tried using the color palette and sticking with those colors throughout the dashboard ([Color palette link](https://colorhunt.co/palette/eef5ffb4d4ff86b6f6176b87))
 
 ## Some Key Metrics
-
+- Average Revenue Per User(ARPU)
+- Market Share %
+- Revenue Before 5G and After 5G
+- Revenue Change %
+- ARPU Before 5G and After 5G
+- ARPU Change %
+- Active Users Before 5G and After 5G
+- Active Users Change %
+- Unsubscribed users Before 5G and After 5G
+- Unsubscribed users Change %
 
 ## Some Important insights from the Dashboard
 - 
