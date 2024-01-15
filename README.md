@@ -128,4 +128,40 @@ You are a data analyst who has been provided with sample data to work on the fol
 - Plans such as p7, p5, p6, and p4 were either without a daily refilling option or had low validity periods saw double-digit revenue growth decline post 5G rollout.
 
 ## Potential Decisions
+1. **Revenue Optimization Strategies:**
+   - Evaluate the performance of plans introduced after the 5G rollout (p11 and p12), which contributed significantly to revenue. Consider promoting or enhancing these plans further to maintain or increase revenue.
+   - Focus on marketing and promoting daily data packs (3 GB, 2 GB, 1.5 GB, 1GB, and 1.8 GB) with a 2-month validity, as they have shown positive contribution to revenue.
 
+2. **Market Share Improvement:**
+   - Analyze the market share trends across cities where AtliQo attempted to gain market share both before and after the 5G rollout. Identify successful strategies and implement them in other cities.
+   - Monitor competitors' activities in cities where market share declined to identify areas for improvement and regain lost market share.
+
+3. **User Retention Strategies:**
+   - Address the decline in Total Active Users (TAU) post-5G rollout by understanding user preferences and expectations. Consider introducing targeted promotions or incentives to retain existing users.
+   - Investigate reasons for the increase in Total Unsubscribed Users (TUU) after 5G and develop strategies to minimize churn, possibly by enhancing service quality or addressing customer concerns.
+
+4. **Plan Effectiveness Analysis:**
+   - Assess the performance of plans like p7, p5, p6, and p4, which experienced a decline in revenue growth post-5G rollout. Consider re-evaluating or phasing out these plans if they are not aligning with customer preferences.
+
+5. **Regional Strategies:**
+   - Given the regional variations in performance, tailor marketing and promotional activities based on regional preferences and demands.
+   - Leverage insights from high-performing regions (e.g., Mumbai for revenue, Patna for ARPU, and Pune for TAU) to inform strategies for other regions.
+
+6. **Competitor Analysis:**
+   - Conduct a comprehensive analysis of competitors, especially those surpassing AtliQo in market share. Identify their successful strategies and consider implementing similar approaches to stay competitive.
+
+7. **Internet Plans Optimization:**
+   - Explore opportunities to optimize internet plans based on user preferences and market demands. Consider conducting surveys or seeking feedback to understand customer needs better.
+
+8. **Communication and Marketing:**
+   - Enhance communication strategies to educate users about the benefits of 5G plans and the value proposition of AtliQo's offerings.
+   - Consider targeted marketing campaigns highlighting the advantages of plans introduced after 5G rollout to attract new users.
+
+9. **Monitoring and Adaptation:**
+   - Implement a continuous monitoring mechanism to track the effectiveness of implemented strategies.
+   - Be agile in adapting to market dynamics and customer preferences, making data-driven decisions to stay ahead in the competitive telecom landscape.
+
+10. **Collaboration and Partnerships:**
+    - Explore potential collaborations or partnerships with content providers or tech companies to enhance the overall user experience, making AtliQo's offerings more attractive to customers.
+
+These potential decisions aim to address the decline in active users and revenue growth, providing a roadmap for strategic improvements and optimizations in AtliQo's telecom services.
