@@ -85,7 +85,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 - In terms of value change, the Mumbai region contributed the highest revenue of ₹ 2.4 Billion among all regions after 5G.
 - In terms of percent change, the Lucknow region contributed the highest percent change of 1.8 % with revenue of ₹ 0.6 Billion  among all regions after 5G.
 
-### Average Revenue Per User(ARPU)
+### Average Revenue Per User (ARPU)
 - The overall monthly average of ARPU was ₹ 200.
 - In March, the ARPU of ₹ 196.5 for Atliqo was the highest among the rest of the months before 5G.
 - In June, the ARPU of ₹ 217.8 for Atliqo was the highest among the rest of the months after 5G.
@@ -94,7 +94,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 - In terms of value change, the Patna region contributed the highest ARPU of ₹ 231.5 among all regions after 5G.
 - In terms of percent change, the Raipur region contributed the highest percent change of 22.3 % with ARPU of ₹ 225.3  among all regions after 5G.
 
-### Total Active Users(TAU)
+### Total Active Users (TAU)
 - The overall monthly average of total active users was 20.2 Million.
 - In February, the TAU of 22.8 Million for Atliqo was the highest among the rest of the months before 5G.
 - In July, the TAU of 21.1 Million for Atliqo was the highest among the rest of the months after 5G.
@@ -104,7 +104,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 - In terms of percent change, the Pune region contributed the highest percent change of 18.1 % with a TAU of 7.6 Million among all regions after 5G.
 
 
-### Total Unsubscribed Users(TUU)
+### Total Unsubscribed Users (TUU)
 - The overall monthly average of total unsubscribed users was 1.6 Million.
 - In April, the TUU of 1.5 Million for Atliqo was the highest among the rest of the months before 5G.
 - In August, the TUU of 1.9 Million for Atliqo was the highest among the rest of the months after 5G.
