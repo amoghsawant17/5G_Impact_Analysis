@@ -1,5 +1,5 @@
 # 5G_Impact_Analysis - Power BI
-- This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Challenge #2: Generate Insights to Solve a Supply Chain Issue in the FMCG domain 
+- This project is a part of [Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge) Challenge #3 : Provide Insights to the Executive Team in the Telecom Domain
 
 Problem Statement
 
