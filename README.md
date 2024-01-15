@@ -20,37 +20,37 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Data Model
 
 <p align="center">
-    <img src='' height="400">
+    <img src='https://github.com/amoghsawant17/5G_Impact_Analysis/blob/main/view_snaps/data_model.png' height="400">
 </p>
 
 ## Home View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/5G_Impact_Analysis/blob/main/view_snaps/home.png' width="600">
 </p>
 
-## Overview
+## Atliqo Metrics
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/5G_Impact_Analysis/blob/main/view_snaps/atliqo_metrics.png' width="600">
 </p>
 
-## Customer Insights View
+## Market Share View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/5G_Impact_Analysis/blob/main/view_snaps/market_share.png' width="600">
 </p>
 
-## Order Insights View
+## Plans View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/5G_Impact_Analysis/blob/main/view_snaps/plans.png' width="600">
 </p>
 
 ## Feedback View
 
 <p align="center">
-    <img src='' width="600">
+    <img src='https://github.com/amoghsawant17/5G_Impact_Analysis/blob/main/view_snaps/feedback.png' width="600">
 </p>
 
 ## Things that I learned from this Project
