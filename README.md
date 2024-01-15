@@ -85,7 +85,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 - In terms of value change, the Mumbai region contributed the highest revenue of ₹ 2.4 Billion among all regions after 5G.
 - In terms of percent change, the Lucknow region contributed the highest percent change of 1.8 % with revenue of ₹ 0.6 Billion  among all regions after 5G.
 
-### ARPU
+### Average Revenue Per User(ARPU)
 - The overall monthly average of ARPU was ₹ 200.
 - In March, the ARPU of ₹ 196.5 for Atliqo was the highest among the rest of the months before 5G.
 - In June, the ARPU of ₹ 217.8 for Atliqo was the highest among the rest of the months after 5G.
