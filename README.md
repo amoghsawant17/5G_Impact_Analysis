@@ -130,7 +130,7 @@ You are a data analyst who has been provided with sample data to work on the fol
 ## Potential Decisions
 1. **Revenue Optimization Strategies:**
    - Evaluate the performance of plans introduced after the 5G rollout (p11 and p12), which contributed significantly to revenue. Consider promoting or enhancing these plans further to maintain or increase revenue.
-   - Focus on marketing and promoting daily data packs (3 GB, 2 GB, 1.5 GB, 1GB, and 1.8 GB) with a 2-month validity, as they have shown positive contribution to revenue.
+   - Focus on marketing and promoting daily data packs (3 GB, 2 GB, 1.5 GB, 1GB, and 1.8 GB) with an average 2-month validity, as they have shown positive contribution to revenue.
 
 2. **Market Share Improvement:**
    - Analyze the market share trends across cities where AtliQo attempted to gain market share both before and after the 5G rollout. Identify successful strategies and implement them in other cities.
